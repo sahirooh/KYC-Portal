@@ -21,6 +21,4 @@ Currently we have built this registry over a local test-net that we hosted our p
 4. After about 10-15 seconds, we obtain a 20 byte address. This is the address of the compiled smart contract.
 5. Go to the file `root\js\contractDetails.js` and open it using a text editor.
 6. Edit the first line denoting the contract instance address given by the variable `contractAddress` to the 20 byte address obtained in step `4`.
-7. Now the application is ready for use. Make sure the terminal with `ganache-cli` is up and running. It acts as the local ethereum test network.  
-Video - https://www.youtube.com/watch?v=e9S8yPVr7G4   
-Promo - https://www.youtube.com/watch?v=jDSAQV4vPnk
+7. Now the application is ready for use. Make sure the terminal with `ganache-cli` is up and running. It acts as the local ethereum test network.
